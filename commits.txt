@@ -1,0 +1,52 @@
+commit f4df5842504d25f35af98ef179f0a9a9d1246e97
+
+Author: Luis Felipe Izquierdo <felipeizquierdoo@gmail.com>
+
+Date:   Mon Feb 16 14:35:26 2015 -0500
+
+    
+Agregue descripcion
+
+
+
+commit e9398b82831b769b56bd12d2e1e299ca35c60846
+
+Author: Luis Felipe Izquierdo <felipeizquierdoo@gmail.com>
+
+Date:   Mon Feb 16 14:33:09 2015 -0500
+
+    
+Agregue redes sociales
+
+
+
+commit b751d014db46dc3960f584b035ac773185d2c474
+
+Author: Luis Felipe Izquierdo <felipeizquierdoo@gmail.com>
+
+Date:   Mon Feb 16 13:26:38 2015 -0500
+
+    
+Perfil web escrito
+
+
+
+commit 630455f3aa14e05ca1bea21b8f4b54fdd63c51e1
+
+Author: Luis Felipe Izquierdo <felipeizquierdoo@gmail.com>
+
+Date:   Mon Feb 16 13:19:36 2015 -0500
+
+    
+Subi foto de perfil y mi nombre
+
+
+
+commit af634fdb92d047d87378bab9e576d5bd3bba4c94
+
+Author: Luis Felipe Izquierdo <felipeizquierdoo@gmail.com>
+
+Date:   Mon Feb 16 13:05:24 2015 -0500
+
+    
+estos son los archivo base de mi portafolio
